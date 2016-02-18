@@ -1,0 +1,27 @@
+{
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/User/Xcode_default.tmTheme",
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"PHP",
+		"SyncedSideBar",
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": false,
+	"soda_folder_icons": true,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"update_check": false,
+	"use_tab_stops": true,
+	"word_wrap": true
+}

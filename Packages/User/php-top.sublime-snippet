@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+<?php
+
+/**
+ * ${1:头部信息}
+ * @author Jerry <imjerrybao@gmail.com>
+*/
+namespace ${2:name}
+
+class ${3:ClassName} {
+
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>top</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html.basic</scope>
+</snippet>

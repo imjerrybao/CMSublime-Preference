@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://localhost:8123",
+	"https_proxy": "http://localhost:8123",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Babel",
+		"Bootstrap 3 Snippets",
+		"CSS3",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JSHint",
+		"Package Control",
+		"ReactJS",
+		"Sass",
+		"SCSS",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Swift",
+		"SyncedSideBar",
+		"Tag",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"VAlign",
+		"Vuejs Complete Package"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	]
+}
